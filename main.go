@@ -15,7 +15,7 @@ import (
 	"text/tabwriter"
 
 	cli "github.com/codegangsta/cli"
-	rw "github.com/whyrusleeping/gx-go/rewrite"
+	rw "github.com/kubuxu/gx-lua/rewrite"
 	gx "github.com/whyrusleeping/gx/gxutil"
 	. "github.com/whyrusleeping/stump"
 )

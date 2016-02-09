@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	rw "github.com/whyrusleeping/gx-go/rewrite"
+	rw "github.com/whyrusleeping/gx-lua/rewrite"
 	gx "github.com/whyrusleeping/gx/gxutil"
 	. "github.com/whyrusleeping/stump"
 )
